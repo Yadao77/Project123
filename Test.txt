@@ -1,3 +1,3 @@
-This is first GIT file
+This is first session GIT file
 file modified
 New file has been added
