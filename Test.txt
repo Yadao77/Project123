@@ -1,3 +1,7 @@
 This is first GIT file
+<<<<<<< HEAD
 file modified
 New file has been added
+=======
+file modified
+>>>>>>> parent of c779aa6 (file updated)
